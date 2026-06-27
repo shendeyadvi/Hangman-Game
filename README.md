@@ -39,7 +39,7 @@ Hangman-Game/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Hangman-Game.git
+git clone https://github.com/shendeyadvi/Hangman-Game.git
 ```
 
 2. Navigate to the project folder:
